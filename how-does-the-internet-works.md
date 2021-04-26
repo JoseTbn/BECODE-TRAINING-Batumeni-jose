@@ -80,3 +80,7 @@ when info reach dest => reassemble packets to "build" files/img/infomations
 # Internet as a graph
 
 ![](https://i.imgur.com/09c6lBK.png)
+
+### Thanks to Maxime is way better resumer than me !
+
+This theory file has been reviewed by Batumeni.J
